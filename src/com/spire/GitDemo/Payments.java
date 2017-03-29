@@ -12,9 +12,6 @@ public class Payments {
 		System.out.println("Inside Payments method");
 	}
 	
-	public void removePayments()
-	{
-		System.out.println("Inside Payments method");
-	}
+	
 
 }

@@ -13,5 +13,8 @@ public class Payments {
 	}
 	
 	
-
+	public void editPayments()
+	{
+		System.out.println("Inside Payments method");
+	}
 }
